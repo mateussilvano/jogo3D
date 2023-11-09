@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84798385e10eb0448a45754b9d1644dd, type: 3}
   m_Name: Level3
   m_EditorClassIdentifier: 
-  speed: 70
-  minScore: 400
+  speed: 40
+  minScore: 600
